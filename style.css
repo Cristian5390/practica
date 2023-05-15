@@ -1,0 +1,62 @@
+body {
+    background: linear-gradient(rgba(125, 15, 0, 0.623), rgb(56, 125, 0), rgba(0, 125, 115, 0.952), rgb(125, 0, 87));
+
+
+}
+
+
+
+#red {
+    color: red;
+
+
+}
+
+#blue {
+    color: blue;
+
+
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+img {
+
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    
+
+    padding: 20px 50px;
+
+}
+
+
+
+
+
+button {
+    display: block;
+    margin: 10px 50%;
+    padding: auto;
+    font-size: 1rem;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+}
+
